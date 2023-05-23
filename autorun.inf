@@ -1,0 +1,4 @@
+[Autorun]
+Icon=Resources/youtube_icon-icons.com_62716.ico
+Label=YouTube to MP3
+open=Converter.lnk
